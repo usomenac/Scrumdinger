@@ -13,6 +13,7 @@
 		224FB8EB2C255FB000C065A4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 224FB8EA2C255FB000C065A4 /* Preview Assets.xcassets */; };
 		224FB8F32C2802EC00C065A4 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224FB8F22C2802EC00C065A4 /* Theme.swift */; };
 		224FB8F52C28040800C065A4 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224FB8F42C28040800C065A4 /* DailyScrum.swift */; };
+		224FB8F72C28054D00C065A4 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224FB8F62C28054D00C065A4 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		224FB8EA2C255FB000C065A4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		224FB8F22C2802EC00C065A4 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		224FB8F42C28040800C065A4 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		224FB8F62C28054D00C065A4 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				224FB8E32C255FB000C065A4 /* ScrumdingerApp.swift */,
 				224FB8E52C255FB000C065A4 /* MeetingView.swift */,
+				224FB8F62C28054D00C065A4 /* CardView.swift */,
 				224FB8F12C28029100C065A4 /* Models */,
 				224FB8E72C255FB000C065A4 /* Assets.xcassets */,
 				224FB8E92C255FB000C065A4 /* Preview Content */,
@@ -155,6 +158,7 @@
 				224FB8F32C2802EC00C065A4 /* Theme.swift in Sources */,
 				224FB8E62C255FB000C065A4 /* MeetingView.swift in Sources */,
 				224FB8E42C255FB000C065A4 /* ScrumdingerApp.swift in Sources */,
+				224FB8F72C28054D00C065A4 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
